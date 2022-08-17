@@ -1,0 +1,20 @@
+screenX = 750 screenY = 750
+FPS = 60
+corFundo = (29, 28, 26) #Pastel Black
+corProta = (136,164,175) #Tourmaline
+corProton = (237,176,175) #Blossom
+corNeutron = (88,88,88) #Light Gray
+corEnemy = (188,188,188) #Light Gray
+corPhoton = (228,196,100) #Light Yellow
+corBlackHole = (0, 0, 0) #Real Black
+(29,28,26);(136,164,175);(237,176,175);(88,88,88);(188,188,188);(228,196,100);(0, 0, 0);
+
+750; 750
+60;
+29;28;26
+136;164;175
+237;176;175
+88;88;88
+188;188;188
+228;196;100
+0;0;0
